@@ -1,0 +1,17 @@
+{
+    "eggtarget" : "WALLET TO SEND YOUR EGGS TO",
+    "fundtarget" : "WALLET TO SEND YOUR FUNDS TO AFTER ALL EGGS HAVE BEEN TRANSFERED",
+    "os_api_key" : "OPEN SEA API KEY",
+    "wallets" : 
+    [
+        {
+            "publicKey": "WALLET ADDRESS OF FIRST WALLET (should have 5 MATIC ON IT)",
+            "privateKey": "PRIVATE KEY OF FIRST ADDRESS"
+        },
+        {
+            "publicKey": "WALLET ADDRESS OF SECOND WALLET (No FUNDS required, add as many wallets as you want below)",
+            "privateKey": "PRIVATE KEY OF SECONDS ADDRESS"
+        }
+    ]
+
+}
